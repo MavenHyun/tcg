@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootElement>
+	<Item card_name="포심" card_id="20000000" card_type1="0" card_type2="0" card_cost="0" card_move="0" card_effect="0"/>
+	<Item card_name="커터" card_id="20000001" card_type1="0" card_type2="0" card_cost="1" card_move="1" card_effect="0"/>
+	<Item card_name="투심" card_id="20000002" card_type1="0" card_type2="0" card_cost="1" card_move="2" card_effect="0"/>
+	<Item card_name="스플리터" card_id="20000003" card_type1="0" card_type2="0" card_cost="1" card_move="4" card_effect="0"/>
+	<Item card_name="체인지업" card_id="20000004" card_type1="1" card_type2="1" card_cost="1" card_move="4" card_effect="0"/>
+	<Item card_name="써클 체인지업" card_id="20000005" card_type1="1" card_type2="3" card_cost="2" card_move="6" card_effect="0"/>
+	<Item card_name="슬라이더" card_id="20000006" card_type1="2" card_type2="2" card_cost="1" card_move="5" card_effect="0"/>
+	<Item card_name="커브" card_id="20000007" card_type1="2" card_type2="2" card_cost="1" card_move="10" card_effect="0"/>
+	<Item card_name="종슬라이더" card_id="20000008" card_type1="2" card_type2="2" card_cost="1" card_move="4" card_effect="0"/>
+	<Item card_name="슬로우 커브" card_id="20000009" card_type1="2" card_type2="1" card_cost="1" card_move="10" card_effect="0"/>
+	<Item card_name="하드 슬라이더" card_id="20000010" card_type1="2" card_type2="2" card_cost="2" card_move="8" card_effect="0"/>
+	<Item card_name="포크" card_id="20000011" card_type1="2" card_type2="2" card_cost="1" card_move="7" card_effect="0"/>
+	<Item card_name="싱커" card_id="20000012" card_type1="3" card_type2="3" card_cost="1" card_move="6" card_effect="0"/>
+	<Item card_name="하드 싱커" card_id="20000013" card_type1="3" card_type2="3" card_cost="2" card_move="9" card_effect="0"/>
+	<Item card_name="라이징 포심" card_id="20000014" card_type1="0" card_type2="0" card_cost="2" card_move="3" card_effect="0"/>
+</RootElement>

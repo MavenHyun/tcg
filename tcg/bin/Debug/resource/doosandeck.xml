@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootElement>	
+	<!--pdeck-->
+	<PCard card_id="20160137" card_pos0="8"/>
+	<PCard card_id="20160124" card_pos0="4"/>
+	<PCard card_id="20160149" card_pos0="9"/>
+	<PCard card_id="20160132" card_pos0="7"/>
+	<PCard card_id="20160144" card_pos0="0"/>
+	<PCard card_id="20160136" card_pos0="3"/>
+	<PCard card_id="20160125" card_pos0="2"/>
+	<PCard card_id="20160113" card_pos0="5"/>
+	<PCard card_id="20160152" card_pos0="6"/>
+	<PCard card_id="20160140" card_pos0="10"/>
+	<!--bdeck-->
+	<BCard card_id="20160107"/>
+	<BCard card_id="20160108"/>
+	<BCard card_id="20160111"/>
+	<BCard card_id="20160115"/>
+	<BCard card_id="20160127"/>
+	<BCard card_id="20160131"/>
+	<BCard card_id="20160141"/>
+	<BCard card_id="20160145"/>
+	<BCard card_id="20160147"/>
+	<BCard card_id="20160148"/>
+	<!--pitch-->
+	<PiTCH index="0" num="20"/>
+	<PiTCH index="1" num="10"/>
+	<PiTCH index="2" num="3"/>
+	<PiTCH index="3" num="3"/>
+	<PiTCH index="4" num="3"/>
+	<PiTCH index="5" num="1"/>
+</RootElement>	

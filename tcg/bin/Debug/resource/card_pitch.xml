@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootElement>
+	<Item name="포심" id="10000000" type="0"/>
+	<Item name="커터" id="10000001" type="0"/>
+	<Item name="스플리터" id="10000002" type="0"/>
+	<Item name="투심" id="10000003" type="0"/>
+	<Item name="슬라이더" id="10000004" type="1"/>
+	<Item name="커브" id="10000005" type="13"/>
+	<Item name="체인지업" id="10000006" type="2"/>
+	<Item name="싱커" id="10000007" type="2"/>
+	<Item name="포크" id="10000008" type="2"/>
+	<Item name="너클" id="10000009" type="12"/>
+</RootElement>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootElement>
+	<Item card_name="최주환" card_team="두산 베어스" card_id="20160107" card_season="2016" card_pos="4" card_pos2="5" card_pos3="0" card_pos4="0" card_throws="2" card_bats="1" card_bp="6" card_con="4" card_def="7"/>
+	<Item card_name="류지혁" card_team="두산 베어스" card_id="20160108" card_season="2016" card_pos="4" card_pos2="6" card_pos3="3" card_pos4="5" card_throws="2" card_bats="1" card_bp="7" card_con="4" card_def="9"/>
+	<Item card_name="윤명준" card_team="두산 베어스" card_id="20160111" card_season="2016" card_pos="11" card_throws="2" card_bats="2" card_pp="3" p1="20000000" p2="20000003" p3="20000004" p4="20000006" p5="20000007" p6="0"/>
+	<Item card_name="허경민" card_team="두산 베어스" card_id="20160113" card_season="2016" card_pos="5" card_pos2="6" card_pos3="4" card_pos4="0" card_throws="2" card_bats="2" card_bp="6" card_con="4" card_def="7"/>
+	<Item card_name="국해성" card_team="두산 베어스" card_id="20160115" card_season="2016" card_pos="9" card_pos2="7" card_pos3="3" card_pos4="0" card_throws="2" card_bats="3" card_bp="7" card_con="4" card_def="8"/>
+	<Item card_name="이원석" card_team="두산 베어스" card_id="20160116" card_season="2016" card_pos="4" card_pos2="5" card_pos3="0" card_pos4="0" card_throws="2" card_bats="2" card_bp="6" card_con="4" card_def="9"/>
+	<Item card_name="오재원" card_team="두산 베어스" card_id="20160124" card_season="2016" card_pos="4" card_pos2="3" card_pos3="0" card_pos4="0" card_throws="2" card_bats="1" card_bp="6" card_con="4" card_def="7"/>
+	<Item card_name="양의지" card_team="두산 베어스" card_id="20160125" card_season="2016" card_pos="2" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="2" card_bp="8" card_con="5" card_def="9"/>
+	<Item card_name="홍상삼" card_team="두산 베어스" card_id="20160127" card_season="2016" card_pos="11" card_throws="2" card_bats="1" card_pp="3" p1="20000000" p2="20000001" p3="20000006" p4="20000007" p5="20000008"  p6="20000011"/>
+	<Item card_name="정수빈" card_team="두산 베어스" card_id="20160131" card_season="2016" card_pos="8" card_pos2="7" card_pos3="9" card_pos4="0" card_throws="1" card_bats="1" card_bp="6" card_con="3" card_def="8"/>
+	<Item card_name="김재환" card_team="두산 베어스" card_id="20160132" card_season="2016" card_pos="7" card_pos2="3" card_pos3="0" card_pos4="0" card_throws="2" card_bats="1" card_bp="9" card_con="5" card_def="7"/>
+	<Item card_name="오재일" card_team="두산 베어스" card_id="20160136" card_season="2016" card_pos="3" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="1" card_bats="1" card_bp="8" card_con="5" card_def="9"/>
+	<Item card_name="박건우" card_team="두산 베어스" card_id="20160137" card_season="2016" card_pos="9" card_pos2="7" card_pos3="8" card_pos4="0" card_throws="2" card_bats="2" card_bp="8" card_con="5" card_def="8"/>
+	<Item card_name="니퍼트" card_team="두산 베어스" card_id="20160140" card_season="2016" card_pos="10" card_throws="2" card_bats="2" card_pp="5" p1="20000000" p2="20000004" p3="20000005" p4="20000006" p5="20000007" p6="20000009"/>
+	<Item card_name="에반스" card_team="두산 베어스" card_id="20160144" card_season="2016" card_pos="0" card_pos2="3" card_pos3="0" card_pos4="0" card_throws="2" card_bats="2" card_bp="8" card_con="5" card_def="5"/>
+	<Item card_name="이용찬" card_team="두산 베어스" card_id="20160145" card_season="2016" card_pos="11" card_throws="2" card_bats="2" card_pp="4" p1="20000000" p2="20000006" p3="20000007" p4="20000011" p5="0" p6="0"/>
+	<Item card_name="박세혁" card_team="두산 베어스" card_id="20160147" card_season="2016" card_pos="2" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="1" card_bp="6" card_con="3" card_def="9"/>
+	<Item card_name="이현승" card_team="두산 베어스" card_id="20160148" card_season="2016" card_pos="11" card_throws="1" card_bats="1" card_pp="3" p1="20000000" p2="20000004" p3="20000005" p4="20000006" p5="20000009" p6="0"/>
+	<Item card_name="민병헌" card_team="두산 베어스" card_id="20160149" card_season="2016" card_pos="8" card_pos2="7" card_pos3="9" card_pos4="0" card_throws="2" card_bats="2" card_bp="7" card_con="5" card_def="10"/>
+	<Item card_name="김재호" card_team="두산 베어스" card_id="20160152" card_season="2016" card_pos="6" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="2" card_bp="7" card_con="5" card_def="8"/>
+	<Item card_name="박민우" card_team="NC 다이노스" card_id="20160202" card_season="2016" card_pos="4" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="1" card_bp="7" card_con="6" card_def="7"/>
+	<Item card_name="모창민" card_team="NC 다이노스" card_id="20160203" card_season="2016" card_pos="5" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="2" card_bp="8" card_con="5" card_def="6"/>
+	<Item card_name="이상호" card_team="NC 다이노스" card_id="20160205" card_season="2016" card_pos="4" card_pos2="5" card_pos3="6" card_pos4="3" card_throws="2" card_bats="2" card_bp="7" card_con="4" card_def="6"/>
+	<Item card_name="김종호" card_team="NC 다이노스" card_id="20160209" card_season="2016" card_pos="7" card_pos2="8" card_pos3="9" card_pos4="0" card_throws="1" card_bats="1" card_bp="6" card_con="4" card_def="7"/>
+	<Item card_name="손시헌" card_team="NC 다이노스" card_id="20160213" card_season="2016" card_pos="6" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="2" card_bp="7" card_con="5" card_def="7"/>
+	<Item card_name="테임즈" card_team="NC 다이노스" card_id="20160214" card_season="2016" card_pos="3" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="1" card_bp="9" card_con="5" card_def="9"/>
+	<Item card_name="박석민" card_team="NC 다이노스" card_id="20160218" card_season="2016" card_pos="5" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="2" card_bp="8" card_con="5" card_def="3"/>
+	<Item card_name="용덕한" card_team="NC 다이노스" card_id="20160223" card_season="2016" card_pos="2" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="2" card_bp="5" card_con="3" card_def="9"/>
+	<Item card_name="조영훈" card_team="NC 다이노스" card_id="20160224" card_season="2016" card_pos="3" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="1" card_bats="1" card_bp="7" card_con="5" card_def="8"/>
+	<Item card_name="이호준" card_team="NC 다이노스" card_id="20160227" card_season="2016" card_pos="0" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="2" card_bp="8" card_con="4" card_def="3"/>
+	<Item card_name="이민호" card_team="NC 다이노스" card_id="20160229" card_season="2016" card_pos="11" card_throws="2" card_bats="1" card_pp="3" p1="20000000" p2="20000004" p3="20000006" p4="20000007" p5="0" p6="0" />
+	<Item card_name="스튜어트" card_team="NC 다이노스" card_id="20160231" card_season="2016" card_pos="10" card_throws="2" card_bats="2" card_pp="4" p1="20000000" p2="20000001" p3="20000002" p4="20000005" p5="20000006" p6="20000007"/>
+	<Item card_name="김성욱" card_team="NC 다이노스" card_id="20160238" card_season="2016" card_pos="8" card_pos2="7" card_pos3="9" card_pos4="0" card_throws="2" card_bats="2" card_bp="7" card_con="4" card_def="8"/>
+	<Item card_name="이종욱" card_team="NC 다이노스" card_id="20160239" card_season="2016" card_pos="7" card_pos2="8" card_pos3="9" card_pos4="0" card_throws="1" card_bats="1" card_bp="7" card_con="5" card_def="9"/>
+	<Item card_name="김태군" card_team="NC 다이노스" card_id="20160242" card_season="2016" card_pos="2" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="2" card_bats="2" card_bp="5" card_con="3" card_def="10"/>
+	<Item card_name="임창민" card_team="NC 다이노스" card_id="20160245" card_season="2016" card_pos="11" card_throws="2" card_bats="2" card_pp="5" p1="20000000" p2="20000001" p3="20000002" p4="20000003" p5="20000004" p6="20000006"/>
+	<Item card_name="원종현" card_team="NC 다이노스" card_id="20160246" card_season="2016" card_pos="11" card_throws="2" card_bats="2" card_pp="4" p1="20000000" p2="20000006" p3="20000008" p4="0" p5="0" p6="0"/>
+	<Item card_name="나성범" card_team="NC 다이노스" card_id="20160247" card_season="2016" card_pos="9" card_pos2="0" card_pos3="0" card_pos4="0" card_throws="1" card_bats="1" card_bp="7" card_con="5" card_def="6"/>
+	<Item card_name="김진성" card_team="NC 다이노스" card_id="20160255" card_season="2016" card_pos="11" card_throws="2" card_bats="2" card_pp="3" p1="20000000" p2="20000003" p3="20000006" p4="20000011" p5="0" p6="0"/>
+	<Item card_name="구창모" card_team="NC 다이노스" card_id="20160259" card_season="2016" card_pos="11" card_throws="1" card_bats="1" card_pp="3" p1="20000000" p2="20000006" p3="20000007" p4="0" p5="0" p6="0"/>	
+</RootElement>

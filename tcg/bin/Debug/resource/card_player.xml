@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootElement>
+	<Item card_name="윤성환" card_team="SS" card_id="20150101" card_season="2015" card_pos="10" card_throws="2" card_pp="4" card_arsenal="04679"/>
+	<Item card_name="백상원" card_team="SS" card_id="20150103" card_season="2015" card_pos="45" card_bats="1" card_con="2" card_bp="5" card_def="5"/>
+	<Item card_name="김상수" card_team="SS" card_id="20150107" card_season="2015" card_pos="6" card_bats="2" card_con="5" card_bp="2" card_def="6"/>
+	<Item card_name="우동균" card_team="SS" card_id="20150108" card_season="2015" card_pos="9" card_bats="1" card_con="2" card_bp="5" card_def="9"/>
+	<Item card_name="나바로" card_team="SS" card_id="20150112" card_season="2015" card_pos="4" card_bats="2" card_con="2" card_bp="9" card_def="7"/>
+	<Item card_name="장원삼" card_team="SS" card_id="20150113" card_season="2015" card_pos="10" card_throws="1" card_pp="1" card_arsenal="02567B"/>
+	<Item card_name="채태인" card_team="SS" card_id="20150117" card_season="2015" card_pos="3" card_bats="1" card_con="4" card_bp="5" card_def="8"/>
+	<Item card_name="박석민" card_team="SS" card_id="20150118" card_season="2015" card_pos="5" card_bats="2" card_con="3" card_bp="8" card_def="5"/>
+	<Item card_name="차우찬" card_team="SS" card_id="20150123" card_season="2015" card_pos="11" card_throws="1" card_pp="4" card_arsenal="03467"/>
+	<Item card_name="클로이드" card_team="SS" card_id="20150125" card_season="2015" card_pos="10" card_throws="2" card_pp="2" card_arsenal="01247C"/>
+	<Item card_name="안지만" card_team="SS" card_id="20150128" card_season="2015" card_pos="11" card_throws="2" card_pp="4" card_arsenal="036"/>
+	<Item card_name="박한이" card_team="SS" card_id="20150133" card_season="2015" card_pos="9" card_bats="2" card_con="3" card_bp="5" card_def="7"/>
+	<Item card_name="최형우" card_team="SS" card_id="20150134" card_season="2015" card_pos="7" card_bats="2" card_con="3" card_bp="8" card_def="8"/>
+	<Item card_name="이승엽" card_team="SS" card_id="20150136" card_season="2015" card_pos="0" card_bats="2" card_con="3" card_bp="8" card_def="0"/>
+	<Item card_name="임창용" card_team="SS" card_id="20150137" card_season="2015" card_pos="11" card_throws="2" card_pp="5" card_arsenal="09BDE"/>
+	<Item card_name="피가로" card_team="SS" card_id="20150144" card_season="2015" card_pos="10" card_throws="2" card_pp="5" card_arsenal="04567"/>
+	<Item card_name="이흥련" card_team="SS" card_id="20150148" card_season="2015" card_pos="2" card_bats="2" card_con="2" card_bp="5" card_def="8"/>
+	<Item card_name="심창민" card_team="SS" card_id="20150155" card_season="2015" card_pos="11" card_throws="2" card_pp="5" card_arsenal="067"/>
+	<Item card_name="이지영" card_team="SS" card_id="20150156" card_season="2015" card_pos="2" card_bats="2" card_con="3" card_bp="5" card_def="8"/>
+	<Item card_name="박해민" card_team="SS" card_id="20150158" card_season="2015" card_pos="83" card_bats="2" card_con="4" card_bp="5" card_def="8"/>
+	<Item card_name="박찬도" card_team="SS" card_id="20150159" card_season="2015" card_pos="78" card_bats="2" card_con="2" card_bp="5" card_def="8"/>
+	<Item card_name="박근홍" card_team="SS" card_id="20150161" card_season="2015" card_pos="11" card_throws="2" card_pp="4" card_arsenal="0467"/>
+	<Item card_name="구자욱" card_team="SS" card_id="20150165" card_season="2015" card_pos="358" card_bats="2" card_con="4" card_bp="6" card_def="7"/>
+	<Item card_name="손승락" card_team="NX" card_id="20150401" card_season="2015" card_pos="11" card_throws="2" card_pp="4" card_arsenal="016"/>
+	<Item card_name="김민성" card_team="NX" card_id="20150403" card_season="2015" card_pos="5" card_bats="2" card_con="3" card_bp="5" card_def="7"/>
+	<Item card_name="김지수" card_team="NX" card_id="20150405" card_season="2015" card_pos="564" card_bats="2" card_con="2" card_bp="5" card_def="8"/>
+	<Item card_name="김하성" card_team="NX" card_id="20150407" card_season="2015" card_pos="6" card_bats="2" card_con="3" card_bp="7" card_def="6"/>
+	<Item card_name="윤석민" card_team="NX" card_id="20150413" card_season="2015" card_pos="35" card_bats="2" card_con="3" card_bp="6" card_def="5"/>
+	<Item card_name="서건창" card_team="NX" card_id="20150414" card_season="2015" card_pos="4" card_bats="1" card_con="3" card_bp="5" card_def="6"/>
+	<Item card_name="송신영" card_team="NX" card_id="20150419" card_season="2015" card_pos="10" card_throws="2" card_pp="2" card_arsenal="0467B"/>
+	<Item card_name="마정길" card_team="NX" card_id="20150421" card_season="2015" card_pos="11" card_throws="2" card_pp="4" card_arsenal="0567"/>
+	<Item card_name="밴헤켄" card_team="NX" card_id="20150422" card_season="2015" card_pos="10" card_throws="1" card_pp="5" card_arsenal="01367B"/>
+	<Item card_name="스나이더" card_team="NX" card_id="20150425" card_season="2015" card_pos="978" card_bats="1" card_con="3" card_bp="8" card_def="7"/>
+	<Item card_name="서동욱" card_team="NX" card_id="20150426" card_season="2015" card_pos="3479" card_bats="3" card_con="4" card_bp="5" card_def="7"/>
+	<Item card_name="박동원" card_team="NX" card_id="20150427" card_season="2015" card_pos="2" card_bats="2" card_con="3" card_bp="6" card_def="8"/>
+	<Item card_name="이택근" card_team="NX" card_id="20150429" card_season="2015" card_pos="8" card_bats="2" card_con="4" card_bp="5" card_def="9"/>
+	<Item card_name="피어밴드" card_team="NX" card_id="20150431" card_season="2015" card_pos="10" card_throws="1" card_pp="2" card_arsenal="0567"/>
+	<Item card_name="유재신" card_team="NX" card_id="20150433" card_season="2015" card_pos="3487" card_bats="2" card_con="3" card_bp="5" card_def="6"/>
+	<Item card_name="조상우" card_team="NX" card_id="20150442" card_season="2015" card_pos="11" card_throws="2" card_pp="5" card_arsenal="025A"/>
+	<Item card_name="김영민" card_team="NX" card_id="20150450" card_season="2015" card_pos="11" card_throws="2" card_pp="4" card_arsenal="023467"/>
+	<Item card_name="박헌도" card_team="NX" card_id="20150451" card_season="2015" card_pos="789" card_bats="2" card_con="3" card_bp="5" card_def="9"/>
+	<Item card_name="박병호" card_team="NX" card_id="20150452" card_season="2015" card_pos="3" card_bats="2" card_con="4" card_bp="9" card_def="7"/>
+	<Item card_name="고종욱" card_team="NX" card_id="20150453" card_season="2015" card_pos="78" card_bats="1" card_con="3" card_bp="5" card_def="6"/>
+	<Item card_name="유한준" card_team="NX" card_id="20150461" card_season="2015" card_pos="89" card_bats="2" card_con="4" card_bp="7" card_def="8"/>
+	<Item card_name="한현희" card_team="NX" card_id="20150463" card_season="2015" card_pos="11" card_throws="2" card_pp="4" card_arsenal="0567"/>
+	<Item card_name="김대우" card_team="NX" card_id="20150465" card_season="2015" card_pos="11" card_throws="2" card_pp="2" card_arsenal="067"/>
+	<Item card_name="최주환" card_team="DO" card_id="20160107" card_season="2016" card_pos="45" card_bats="1" card_con="3" card_bp="5" card_def="7"/>
+	<Item card_name="류지혁" card_team="DO" card_id="20160108" card_season="2016" card_pos="5643" card_bats="1" card_con="3" card_bp="5" card_def="8"/>
+	<Item card_name="윤명준" card_team="DO" card_id="20160111" card_season="2016" card_pos="11" card_throws="2" card_pp="5" card_arsenal="0367B"/>
+	<Item card_name="허경민" card_team="DO" card_id="20160113" card_season="2016" card_pos="546" card_bats="2" card_con="3" card_bp="5" card_def="7"/>
+	<Item card_name="국해성" card_team="DO" card_id="20160115" card_season="2016" card_pos="73" card_bats="3" card_con="3" card_bp="5" card_def="7"/>
+	<Item card_name="오재원" card_team="DO" card_id="20160124" card_season="2016" card_pos="4" card_bats="1" card_con="3" card_bp="5" card_def="6"/>
+	<Item card_name="양의지" card_team="DO" card_id="20160125" card_season="2016" card_pos="2" card_bats="2" card_con="2" card_bp="8" card_def="8"/>
+	<Item card_name="보우덴" card_team="DO" card_id="20160126" card_season="2016" card_pos="10" card_throws="2" card_pp="5" card_arsenal="03467"/>
+	<Item card_name="홍상삼" card_team="DO" card_id="20160127" card_season="2016" card_pos="11" card_throws="2" card_pp="4" card_arsenal="0678B"/>
+	<Item card_name="장원준" card_team="DO" card_id="20160128" card_season="2016" card_pos="10" card_throws="1" card_pp="5" card_arsenal="045679"/>
+	<Item card_name="유희관" card_team="DO" card_id="20160129" card_season="2016" card_pos="10" card_throws="1" card_pp="3" card_arsenal="04569"/>
+	<Item card_name="정수빈" card_team="DO" card_id="20160131" card_season="2016" card_pos="879" card_bats="1" card_con="2" card_bp="5" card_def="7" card_pos0="8"/>
+	<Item card_name="김재환" card_team="DO" card_id="20160132" card_season="2016" card_pos="73" card_bats="1" card_con="3" card_bp="9" card_def="7" card_pos0="7"/>
+	<Item card_name="오재일" card_team="DO" card_id="20160136" card_season="2016" card_pos="3" card_bats="1" card_con="3" card_bp="9" card_def="8" card_pos0="3"/>
+	<Item card_name="박건우" card_team="DO" card_id="20160137" card_season="2016" card_pos="789" card_bats="2" card_con="3" card_bp="7" card_def="7" card_pos0="8"/>
+	<Item card_name="니퍼트" card_team="DO" card_id="20160140" card_season="2016" card_pos="10" card_throws="2" card_pp="5" card_arsenal="045679"/>
+	<Item card_name="정재훈" card_team="DO" card_id="20160141" card_season="2016" card_pos="11" card_throws="2" card_pp="5" card_arsenal="01378B"/>
+	<Item card_name="에반스" card_team="DO" card_id="20160144" card_season="2016" card_pos="3" card_bats="2" card_con="3" card_bp="7" card_def="7"/>
+	<Item card_name="이용찬" card_team="DO" card_id="20160145" card_season="2016" card_pos="11" card_throws="2" card_pp="3" card_arsenal="06B"/>
+	<Item card_name="박세혁" card_team="DO" card_id="20160147" card_season="2016" card_pos="2" card_bats="1" card_con="2" card_bp="5" card_def="8"/>
+	<Item card_name="이현승" card_team="DO" card_id="20160148" card_season="2016" card_pos="11" card_throws="1" card_pp="3" card_arsenal="05689B"/>
+	<Item card_name="민병헌" card_team="DO" card_id="20160149" card_season="2016" card_pos="987" card_bats="2" card_con="3" card_bp="5" card_def="9"/>
+	<Item card_name="김재호" card_team="DO" card_id="20160152" card_season="2016" card_pos="6" card_bats="2" card_con="3" card_bp="5" card_def="7"/>
+	<Item card_name="김준완" card_team="NC" card_id="20160201" card_season="2016" card_pos="879" card_bats="1" card_con="3" card_bp="5" card_def="8"/>
+	<Item card_name="박민우" card_team="NC" card_id="20160202" card_season="2016" card_pos="4" card_bats="1" card_con="4" card_bp="5" card_def="7"/>
+	<Item card_name="김준완" card_team="NC" card_id="20160207" card_season="2016" card_pos="789" card_bats="1" card_con="3" card_bp="5" card_def="6"/>
+	<Item card_name="지석훈" card_team="NC" card_id="20160210" card_season="2016" card_pos="456" card_bats="2" card_con="2" card_bp="5" card_def="7"/>
+	<Item card_name="손시헌" card_team="NC" card_id="20160213" card_season="2016" card_pos="6" card_bats="2" card_con="3" card_bp="5" card_def="6"/>
+	<Item card_name="테임즈" card_team="NC" card_id="20160214" card_season="2016" card_pos="3" card_bats="1" card_con="3" card_bp="9" card_def="8"/>
+	<Item card_name="박석민" card_team="NC" card_id="20160218" card_season="2016" card_pos="5" card_bats="2" card_con="3" card_bp="9" card_def="5"/>
+	<Item card_name="용덕한" card_team="NC" card_id="20160223" card_season="2016" card_pos="2" card_bats="2" card_con="3" card_bp="5" card_def="8"/>
+	<Item card_name="조영훈" card_team="NC" card_id="20160224" card_season="2016" card_pos="3" card_bats="1" card_con="4" card_bp="3" card_def="7"/>
+	<Item card_name="이호준" card_team="NC" card_id="20160227" card_season="2016" card_pos="0" card_bats="2" card_con="3" card_bp="5" card_def="0"/>
+	<Item card_name="이민호" card_team="NC" card_id="20160229" card_season="2016" card_pos="10" card_throws="2" card_pp="2" card_arsenal="0467A"/>
+	<Item card_name="스튜어트" card_team="NC" card_id="20160231" card_season="2016" card_pos="10" card_throws="2" card_pp="5" card_arsenal="012567"/>
+	<Item card_name="해커" card_team="NC" card_id="20160234" card_season="2016" card_pos="10" card_throws="2" card_pp="5" card_arsenal="012567"/>
+	<Item card_name="김성욱" card_team="NC" card_id="20160238" card_season="2016" card_pos="789" card_bats="2" card_con="2" card_bp="7" card_def="8"/>
+	<Item card_name="이종욱" card_team="NC" card_id="20160239" card_season="2016" card_pos="879" card_bats="1" card_con="3" card_bp="5" card_def="8"/>
+	<Item card_name="김태군" card_team="NC" card_id="20160242" card_season="2016" card_pos="2" card_bats="2" card_con="3" card_bp="5" card_def="9"/>
+	<Item card_name="임창민" card_team="NC" card_id="20160245" card_season="2016" card_pos="11" card_throws="2" card_pp="5" card_arsenal="0368B"/>
+	<Item card_name="원종현" card_team="NC" card_id="20160246" card_season="2016" card_pos="11" card_throws="2" card_pp="5" card_arsenal="06C"/>
+	<Item card_name="나성범" card_team="NC" card_id="20160247" card_season="2016" card_pos="9" card_bats="1" card_con="3" card_bp="6" card_def="6"/>
+	<Item card_name="장현식" card_team="NC" card_id="20160250" card_season="2016" card_pos="11" card_throws="2" card_pp="5" card_arsenal="0378"/>
+	<Item card_name="이재학" card_team="NC" card_id="20160251" card_season="2016" card_pos="10" card_throws="2" card_pp="3" card_arsenal="045"/>
+	<Item card_name="김진성" card_team="NC" card_id="20160255" card_season="2016" card_pos="11" card_throws="2" card_pp="4" card_arsenal="036B"/>
+	<Item card_name="최금강" card_team="NC" card_id="20160266" card_season="2016" card_pos="11" card_throws="2" card_pp="3" card_arsenal="02467"/>
+</RootElement>
